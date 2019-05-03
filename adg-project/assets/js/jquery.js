@@ -9,7 +9,7 @@
 		});
 	});*/
 
-
+// this file was for the css keyframes in viewport 
 
   $(document).ready(function() {
 
