@@ -10,3 +10,7 @@
 
 ### Please note the JSON displayed on screen when filling out the form was one of the ways they said to display, I know not to use this method. 
 
+#### What I did:
+* I used the least amound of libraries possible. I know how to use bootstrap, but I wanted to show I could do this without libraries. 
+* It would have been ideal to get a mobile mockup and build into a desktop site, but since I had a desktop to build into mobile, my media queries reflect that. 
+
